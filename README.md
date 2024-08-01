@@ -1,6 +1,7 @@
 # Sang Woo Park ![](https://visitor-badge.laobi.icu/badge?page_id=parksw3.parksw3) [![Github](https://img.shields.io/github/followers/parksw3?label=Follow&style=social)](https://github.com/parksw3)
 
-PhD Candidate, Princeton University<br>
+Postdoctoral Researcher, University of Chicago <br>
+PhD, Princeton University<br>
 
 <!--
 **parksw3/parksw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
